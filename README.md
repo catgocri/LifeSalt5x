@@ -14,5 +14,3 @@ Uninstalling this mod is as easy as deleting one file, you don't even need to de
 - Navigate to `Potion Craft\BepInEx\Plugins`
 - Remove `potioncraft-lifesaltbuff.dll` from the folder.
 - You are done!
-### Dependencies
-Dependencies are placed in the `externals` folder.
