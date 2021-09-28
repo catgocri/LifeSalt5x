@@ -9,7 +9,7 @@ This mod uses BepInEx 5! BepInEx is a mod loader, basically it is what puts the 
 - Download the mod from the [GitHub](https://github.com/catgocri/LifeSalt5x) page.
 - Drag `potioncraft-lifesalt5x.dll` into `Potion Craft\BepInEx\Plugins`
 - You are good to go!
-## Uninstallation
+## Deinstallation
 Uninstalling this mod is as easy as deleting one file, you don't even need to delete [BepInEx](https://github.com/BepInEx/BepInEx/releases)!
 - Navigate to `Potion Craft\BepInEx\Plugins`
 - Remove `potioncraft-lifesalt5x.dll` from the folder.
