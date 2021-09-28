@@ -7,12 +7,12 @@ This mod uses BepInEx 5! BepInEx is a mod loader, basically it is what puts the 
 - Drag the extracted folder into your Potion Craft folder, you should be able to find the Potion Craft folder at `C:\Program Files (x86)\Steam\steamapps\common\Potion Craft`
 - Run Potion Craft once with BepInEx installed.
 - Download the mod from the [GitHub](https://github.com/catgocri/LifeSalt5x) page.
-- Drag `lifesalt5x-potioncraft.dll` into `Potion Craft\BepInEx\Plugins`
+- Drag `potioncraft-lifesalt5x.dll` into `Potion Craft\BepInEx\Plugins`
 - You are good to go!
 ## Uninstallation
 Uninstalling this mod is as easy as deleting one file, you don't even need to delete [BepInEx](https://github.com/BepInEx/BepInEx/releases)!
 - Navigate to `Potion Craft\BepInEx\Plugins`
-- Remove `lifesalt5x-potioncraft.dll` from the folder.
+- Remove `potioncraft-lifesalt5x.dll` from the folder.
 - You are done!
 ### Dependencies
 Dependencies are placed in the `externals` folder.
