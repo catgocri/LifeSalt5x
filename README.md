@@ -1,6 +1,6 @@
 # PotionCraft Life Salt Buff
 A Potion Craft mod which makes one grain of Life Salt heal your potion more than before (AKA makes Life Salt not overpriced and useless.)
-My experimentation shows that it takes roughly `50` grains to heal a near-fully depleted potion back to full health, as opposed to the previous `200` without using the mod.
+My experimentation shows that it takes roughly `50` grains to heal a near-fully depleted potion back to full health, as opposed to the previous `200` without using the mod. Essentially you get four times the value from one batch of Life Salt, nifty eh?
 ## Installation
 This mod uses BepInEx 5! BepInEx is a mod loader, basically it is what puts the edited code into the game.
 - Install [BepInEx 5](https://github.com/BepInEx/BepInEx/releases) and extract the zip file.
